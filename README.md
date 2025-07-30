@@ -24,6 +24,7 @@ This repository contains my **Data Structures and Algorithms (DSA)** study mater
 ---
 
 ## 📁 Repository Structure
+```bash
 DSA-USING-C/
 ├── notes/ # Theory notes in Markdown or PDF
 │ ├── arrays.md
@@ -46,7 +47,7 @@ DSA-USING-C/
 └── LICENSE
 
 > ✅ You can adapt the folders above to match your current repo organization.
-
+```
 ---
 
 ## 📚 Topics Covered
